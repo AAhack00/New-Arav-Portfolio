@@ -102,8 +102,8 @@ export const config = {
     technologies: "HTML, CSS, JavaScript, Node.js, MySQL, MongoDB, Google Sheets API, Webhooks, Email Automation",
     image: "/images/stationery-mart.avif",
     description: "A full-featured e-commerce platform built for a traditional stationery business, enabling online product browsing, cart management, secure checkout, order tracking, and automated email notifications. Integrated with Google Sheets and workflow automation to streamline order processing, enhance customer experience, and reduce manual administrative work.",
-    github: "https://github.com/Aravj217/Shri-Jains-E-Commerce",
-    liveDemo: "https://shri-jains-e-commerce.vercel.app/",
+    github: "https://github.com/Aravj217/Shri-Jain-E-Commerce",
+    liveDemo: "https://shri-jain-stationery-mart.onrender.com/",
     featured: false
   },
 
